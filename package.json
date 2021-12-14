@@ -4,33 +4,33 @@
     "description": "Talkin Movies",
     "main": "server.js",
     "dependencies": {
-      "axios": "^0.24.0",
-      "bcrypt": "^5.0.1",
-      "connect-session-sequelize": "^7.1.2",
-      "dotenv": "^10.0.0",
-      "express": "^4.17.1",
-      "express-handlebars": "^5.3.4",
-      "express-session": "^1.17.2",
-      "handlebars": "^4.7.7",
-      "inquirer": "^8.2.0",
-      "jquery": "^3.6.0",
-      "mysql2": "^2.3.2",
-      "sequelize": "^6.9.0"
+        "axios": "^0.24.0",
+        "bcrypt": "^5.0.1",
+        "connect-session-sequelize": "^7.1.2",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.4",
+        "express-session": "^1.17.2",
+        "handlebars": "^4.7.7",
+        "inquirer": "^8.2.0",
+        "jquery": "^3.6.0",
+        "mysql2": "^2.3.2",
+        "sequelize": "^6.9.0"
     },
     "devDependencies": {},
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js",
-      "seeds": "node seeds/index.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "seeds": "node seeds/index.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kworth999/talking-pictures.git"
+        "type": "git",
+        "url": "git+https://github.com/kworth999/talking-pictures.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kworth999/talking-pictures/issues"
+        "url": "https://github.com/kworth999/talking-pictures/issues"
     },
     "homepage": "https://github.com/kworth999/talking-pictures#readme"
-  }
+}
